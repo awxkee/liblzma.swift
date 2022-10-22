@@ -1,0 +1,4 @@
+module lzmac {
+    header "lzma.h"
+    export *
+}
